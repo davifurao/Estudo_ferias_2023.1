@@ -1,0 +1,7 @@
+
+Cronograma - Segunda-feira (17/7/2023)
+
+- Estudos para Concurso: 2 horas
+- Leitura de TI: 1 hora
+- Desenvolvimento do Blog: 2 horas
+- Melhorias na Biblioteca MQTT: 1 hora
