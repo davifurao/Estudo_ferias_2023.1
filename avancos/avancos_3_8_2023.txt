@@ -1,0 +1,4 @@
+[3/8/2023] Avanço 1: Aprendendo mais sobre como o sensor mede a temperatura e abordagens de amostragem dos dados na aplicação
+[3/8/2023] Avanço 2: Implementado recurso de leitura do sensor sem nenhuma biblioteca
+[3/8/2023] Avanço 3: Implementando o Event SOurce no subscriber
+

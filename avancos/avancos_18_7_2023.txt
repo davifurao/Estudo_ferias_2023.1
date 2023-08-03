@@ -1,0 +1,3 @@
+[18/07/2023] Avanco 1: Lida a apostila de Direito Civil(aula 00->Introdução)
+
+[18/07/2023] Avanco 2: Incrementado algumas ideias para o mqttapi(event source e estudo de concorrencia de acesso)
